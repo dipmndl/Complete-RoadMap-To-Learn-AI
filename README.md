@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**![AI Roadmap 2026](https://www.krishnaik.in/ai-roadmaps)**
+[![AI Roadmap 2026](https://www.krishnaik.in/ai-roadmaps)](https://www.krishnaik.in/ai-roadmaps)
 
 
 # 🚀 AI Mastery Roadmap 2025: Three Core Paths to Excellence
