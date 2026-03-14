@@ -4,6 +4,7 @@
 
 [![AI Roadmap 2026](https://img.shields.io/badge/AI%20Roadmap-2026-blue?style=for-the-badge&logo=artificial-intelligence)](https://www.krishnaik.in/ai-roadmaps)
 
+</div>
 
 # 🚀 AI Mastery Roadmap 2025: Three Core Paths to Excellence
 
